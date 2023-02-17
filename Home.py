@@ -1,7 +1,7 @@
 # This is a Python script using streamlit to make a company website.
 
 # To run the website, type the following in the Terminal window (without the quotes):
-"""streamlit run main.py"""
+"""streamlit run Home.py"""
 
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
